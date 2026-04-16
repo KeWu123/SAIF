@@ -3,7 +3,7 @@
 This repository collects baseline and plugin-augmented inference code for multiple medical segmentation datasets. The goal is to provide clean, reproducible entry points for:
 
 - Baseline inference
-- Our plugin inference (AIS + auto tau + stable top-k + low_res prob + adaptive postprocess)
+- Our plugin inference
 
 Large datasets, checkpoints, and generated outputs are not included.
 
