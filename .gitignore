@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.nii.gz
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.zip
+*.tar
+*.gz
+Synapes/RawData/
+Synapes/processed_1024/
+.git/
